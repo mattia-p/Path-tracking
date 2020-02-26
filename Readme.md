@@ -18,9 +18,7 @@ Source: P. I. Corke, "Robotics, Vision & Control", Springer 2017, ISBN 978-3-319
 
 ## Some results
 
-![](images/test1.png)  ![](images/bicycle_model.png)
-
-![](images/test3.png)
+![](images/test1.png) | ![](images/test3.png)
 
 ## Usage
 
