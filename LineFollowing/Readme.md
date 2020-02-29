@@ -12,6 +12,7 @@ Both steering and speed and controlled, using two proportional controllers.
 
 The vehicle model used is a simple kinematic bicycle model.
 
+![](http://latex.codecogs.com/gif.latex?%5Cgamma%20%3D%20-K_d%20d%20&plus;%20K_h%20%28%5Ctheta%5E%7B*%7D-%5Ctheta%29%20%5C%5C%20%5Ctheta%5E%7B*%7D%20%3D%20tan%5E%7B-1%7D%28%5Cfrac%7B-a%7D%7Bb%7D%29%20d)
 
 
 ## Some results
