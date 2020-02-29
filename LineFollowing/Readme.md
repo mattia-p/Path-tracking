@@ -16,7 +16,7 @@ The vehicle model used is a simple kinematic bicycle model.
 
 ## Some results
 
-![](images/traj.png){:height="50%" width="50%"}  ![](images/d_theta.png)
+![](images/traj.png" width="300")  ![](images/d_theta.png)
 
 ![](images/random.png)
 
