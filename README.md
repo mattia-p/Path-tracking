@@ -4,6 +4,11 @@ Implementation of some path, point or pose tracking algorithms from P. I. Corke,
 
 ## Move to point
 
+
+![](Move2Point/images/test3.png)
+
 ## Line following
+
+![](LineFollowing/images/random.png)
 
 ## Move to pose
