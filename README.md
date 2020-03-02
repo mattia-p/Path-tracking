@@ -11,4 +11,9 @@ Implementation of some path, point or pose tracking algorithms from P. I. Corke,
 
 ![](LineFollowing/images/random.png)
 
+## Trajectory following
+
+![](TrajectoryFollowing/images/test_3.png)
+
+
 ## Move to pose
