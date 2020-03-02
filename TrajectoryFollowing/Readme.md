@@ -38,7 +38,7 @@ The ```main_trajectory_following.py``` script is where you can modify the tests 
 ## Future improvements
 
 - Better way to generate waypoints
--
+- Change the function to find target waypoint - need something smoother (for speed)
 
 
 
