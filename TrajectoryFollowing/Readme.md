@@ -1,11 +1,11 @@
 
 # Path tracking - trajectory following with Pure Pursuit
 
-Implementation of a trajectory following algorithm proposed in P. I. Corke, "Robotics, Vision & Control", page 104.
+Implementation of a trajectory following algorithm proposed in P. I. Corke, "Robotics, Vision & Control", page 105.
 
 Input:
 - Initial robot's state.
-- List of waypoints: List of objects of type Waypoint()
+- List of waypoints to follow: List of objects of type Waypoint()
 
 Output:
 - Trajectory followed by the robot to follow the list of waypoints
